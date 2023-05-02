@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCCategory-Product_exercise.props" />
+</Project>
